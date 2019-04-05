@@ -9,4 +9,4 @@
 
 ### Postgres Client
 * [Postic](https://eggerapps.at/postico/) (Mac)
-* [Heidisql](https://www.heidisql.com/) (Windows)
+* [TablePlus](https://tableplus.io/) (Windows)
