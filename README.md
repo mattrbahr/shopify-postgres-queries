@@ -8,5 +8,8 @@
 * [StitchData](http://stitchdata.com/)
 
 ### Postgres Client
-* [Postic](https://eggerapps.at/postico/) (Mac)
+* [Postico](https://eggerapps.at/postico/) (Mac)
 * [TablePlus](https://tableplus.io/) (Windows)
+
+### Visualizaiton Tool
+* [Redash] (https://redash.io/) 
