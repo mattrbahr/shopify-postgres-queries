@@ -1,5 +1,7 @@
 # Setup
 
+Any questions, DM me on twitter [@mattrbahr](https://twitter.com/mattrbahr)
+
 ## Getting your shopify data in a postgres database
 
 ### Accounts required
