@@ -14,4 +14,4 @@ Any questions, DM me on twitter [@mattrbahr](https://twitter.com/mattrbahr)
 * [TablePlus](https://tableplus.io/) (Windows)
 
 ### Visualizaiton Tool
-* [Redash] (https://redash.io/) 
+* [Redash](https://redash.io/) 
