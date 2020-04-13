@@ -5,7 +5,7 @@
 */
 
 WITH state_rank AS (
-	SELECT date_trunc('DAY',(created_at AT TIME ZONE 'EST')) AS DAY, shipping_address__province,
+	SELECT date_trunc('DAY',(created_at AT TIME ZONE 'EST')) AS day, shipping_address__province,
 		RANK() OVER (
 		PARTITION BY orders.shipping_address__province
 		ORDER BY created_at ASC
