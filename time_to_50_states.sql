@@ -1,6 +1,7 @@
 /* 
 - Change table name in row 12 
 - Update date in line 14
+- We could write this to look for your first order, but assuming it would have pre-launch noise. 
 */
 
 WITH state_rank AS (
@@ -11,7 +12,7 @@ WITH state_rank AS (
 )
 	FROM shopify.orders
 	WHERE customer__email IS NOT NULL
-	AND created_at > '2018-10-09'
+	AND created_at > '{{launch date}}'
 	AND financial_status = 'paid'
 	AND source_name = 'web'
 	AND total_price > 0
