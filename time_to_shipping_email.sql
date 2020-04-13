@@ -1,6 +1,7 @@
 /* 
 - Change table name in row 10 
 - Update date in line 16
+- Lines 16-18 help filter out order noise
 */
 
 WITH 
